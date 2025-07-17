@@ -1,8 +1,6 @@
-👋 Olá, sou Luís Fernando Valentini. Atualmente, estou no 4º período de Ciência da Computação na UFFS e estagiando na área de Engenharia de Dados na Empresa Compass-UOL.
+👋 Olá, sou Luís Fernando Valentini. Atualmente, estou concluindo o 4º período de Ciência da Computação na UFFS.
 
-👀 Tenho interesse em diferentes áreas de desenvolvimento, ainda tentando encontrar minha favorita. Gosto de estudar estruturas de dados e algoritmos, bancos de dados relacionais, desenvolvimento back-end com Node.js e Express.js, entre outros.
-
-🌱 Atualmente, estou mais focado em Engenharia de Dados usando Python e PySpark.
+👀 Tenho interesse em diferentes áreas de desenvolvimento, ainda tentando encontrar minha favorita. Gosto de estudar estruturas de dados e algoritmos, bancos de dados relacionais, desenvolvimento web full-stack com Node/Express e React.js, entre outros.
 
 📫 Outras redes profissionais:
 * Linkedin: https://www.linkedin.com/in/lu%C3%ADs-fernando-cerutti-valentini-63760322b/
